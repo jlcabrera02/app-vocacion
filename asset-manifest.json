@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.48683341.css",
-    "main.js": "/static/js/main.448c0767.js",
-    "static/media/sol.svg": "/static/media/sol.f678820fda5a96d10303087604a4d327.svg",
-    "static/media/luna.svg": "/static/media/luna.70868d697d8eec050a42006fd477cf82.svg",
-    "index.html": "/index.html",
-    "main.48683341.css.map": "/static/css/main.48683341.css.map",
-    "main.448c0767.js.map": "/static/js/main.448c0767.js.map"
+    "main.css": "/app-vocacion/static/css/main.48683341.css",
+    "main.js": "/app-vocacion/static/js/main.ba087351.js",
+    "static/media/sol.svg": "/app-vocacion/static/media/sol.f678820fda5a96d10303087604a4d327.svg",
+    "static/media/luna.svg": "/app-vocacion/static/media/luna.70868d697d8eec050a42006fd477cf82.svg",
+    "index.html": "/app-vocacion/index.html",
+    "main.48683341.css.map": "/app-vocacion/static/css/main.48683341.css.map",
+    "main.ba087351.js.map": "/app-vocacion/static/js/main.ba087351.js.map"
   },
   "entrypoints": [
     "static/css/main.48683341.css",
-    "static/js/main.448c0767.js"
+    "static/js/main.ba087351.js"
   ]
 }
